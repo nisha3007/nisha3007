@@ -14,14 +14,14 @@ Tech Stack
 
 Frontend:
 
-HTML5
-CSS3
-JavaScript
+HTML5,
+CSS3,
+JavaScript,
 React (Learning / Working with)
 
 Programming:
 
-Java
-Object-Oriented Programming (OOP)
+Java,
+Object-Oriented Programming (OOP),
 Data Structures (Basics)
 
